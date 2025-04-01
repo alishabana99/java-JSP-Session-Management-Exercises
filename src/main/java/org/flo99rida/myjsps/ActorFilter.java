@@ -18,6 +18,7 @@ public class ActorFilter implements Filter {
         Filter.super.init(filterConfig);
     }
 
+
     /**
      * @param request  the <code>ServletRequest</code> object contains the client's request
      * @param response the <code>ServletResponse</code> object contains the filter's response
