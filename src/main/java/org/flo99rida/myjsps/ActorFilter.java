@@ -3,7 +3,6 @@ package org.flo99rida.myjsps;
 
 import jakarta.servlet.*;
 import jakarta.servlet.annotation.WebFilter;
-import jakarta.servlet.http.HttpServlet;
 
 import java.io.IOException;
 
